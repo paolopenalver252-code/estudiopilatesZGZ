@@ -1,0 +1,3 @@
+# Demo de rediseño: no indexar. Sustituir al publicar en el dominio oficial.
+User-agent: *
+Disallow: /
